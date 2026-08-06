@@ -30,7 +30,7 @@ EXCEL_MIN_AGE = 18   # first age row in the Excel table
 EXCEL_MAX_AGE = 76   # last age row in the Excel table
 # 76 is not a random number. The mortality data used in the project goes up to age 80,
 # many life insurance policies often do not cover individuals beyond this age. The oldest
-# appropiate starting age for a 5 year term is 76.
+# appropriate starting age for a 5 year term is 76.
 # (76 + 5 - 1 = 80).
 
 # Set this to a number to get the SAME random result every time you run the script.
